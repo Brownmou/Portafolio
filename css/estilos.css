@@ -219,7 +219,7 @@ main .sobre-nosotros{
 /* Our team*/
 
 .about-services{
-  background-color: #fff;
+  background-color: #f2f2f2;
   padding-bottom: 30px;
 }
 
@@ -244,7 +244,7 @@ main .sobre-nosotros{
 
 .servicio-ind p{
   font-weight: 300;
-  text-align: justify;
+  text-align: center;
 }
 
 /*footer*/
